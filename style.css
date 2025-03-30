@@ -1,0 +1,11 @@
+.item{
+    padding: 3rem;
+    border: 1px solid blueviolet;
+    background: gray;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
